@@ -1,0 +1,8 @@
+Model Information:
+* title:	Studio  Office  Interior
+* source:	https://sketchfab.com/3d-models/studio-office-interior-57988c1c4c6e4bfc9e1f0e00ac080844
+* author:	Gin Kern Creative Cloud (https://sketchfab.com/GinKern)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
